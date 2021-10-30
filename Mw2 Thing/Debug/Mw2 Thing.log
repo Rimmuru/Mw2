@@ -1,0 +1,13 @@
+﻿  Hooks.cpp
+C:\Users\lauren\source\repos\Mw2 Thing\Mw2 Thing\src\Hooking\Hooks.cpp(7,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  dllmain.cpp
+  Drawing.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  pch.cpp
+  Generating Code...
+C:\Users\lauren\source\repos\Mw2 Thing\Mw2 Thing\src\dllmain.cpp(16): error C4700: uninitialized local variable 'device' used
