@@ -22,14 +22,6 @@
     <ClInclude Include="src\Hooking\Hooks.h" />
     <ClInclude Include="src\Functions\Drawing.h" />
     <ClInclude Include="src\framework.h" />
-    <ClInclude Include="src\ImGui\imconfig.h" />
-    <ClInclude Include="src\ImGui\imgui.h" />
-    <ClInclude Include="src\ImGui\imgui_impl_dx9.h" />
-    <ClInclude Include="src\ImGui\imgui_impl_win32.h" />
-    <ClInclude Include="src\ImGui\imgui_internal.h" />
-    <ClInclude Include="src\ImGui\imstb_rectpack.h" />
-    <ClInclude Include="src\ImGui\imstb_textedit.h" />
-    <ClInclude Include="src\ImGui\imstb_truetype.h" />
     <ClInclude Include="src\pch.h" />
     <ClInclude Include="src\Detours\Detours.h" />
   </ItemGroup>
@@ -40,12 +32,6 @@
     <ClCompile Include="src\Hooking\Hooks.cpp" />
     <ClCompile Include="src\dllmain.cpp" />
     <ClCompile Include="src\Functions\Drawing.cpp" />
-    <ClCompile Include="src\ImGui\imgui.cpp" />
-    <ClCompile Include="src\ImGui\imgui_draw.cpp" />
-    <ClCompile Include="src\ImGui\imgui_impl_dx9.cpp" />
-    <ClCompile Include="src\ImGui\imgui_impl_win32.cpp" />
-    <ClCompile Include="src\ImGui\imgui_tables.cpp" />
-    <ClCompile Include="src\ImGui\imgui_widgets.cpp" />
     <ClCompile Include="src\pch.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

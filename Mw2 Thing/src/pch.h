@@ -8,12 +8,7 @@
 #define PCH_H
 
 // add headers that you want to pre-compile here
-#include <iostream>
 #include "framework.h"
-#include "ImGui/imgui.h"
-#include "ImGui/imgui_impl_win32.h"
-#include "ImGui/imgui_impl_dx9.h"
-#include "Detours/Detours.h"
 #include "Functions/Drawing.h"
 #include "Hooking/Hooks.h"
 #endif //PCH_H

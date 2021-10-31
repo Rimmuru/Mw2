@@ -1,4 +1,5 @@
 #include "../pch.h"
+#include <iostream>
 
 PaintAllStub_t PaintAllStub;
 CG_DrawRotatedPicPhysical_t R_AddCmdDrawPhysical;
